@@ -1,14 +1,9 @@
-/* img {
+img {
     height: auto;
-    width: 200px;
-} */
-
-.pancake {
-    width: 200px;
-    height: 120px;
+    width: 300px;
 }
 
 .pancake img {
     height: auto;
-    width: 100%;
+    width: 300px;
 }
