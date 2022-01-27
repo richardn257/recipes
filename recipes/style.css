@@ -1,0 +1,14 @@
+/* img {
+    height: auto;
+    width: 200px;
+} */
+
+.pancake {
+    width: 200px;
+    height: 120px;
+}
+
+.pancake img {
+    height: auto;
+    width: 100%;
+}
