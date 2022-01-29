@@ -1,9 +1,14 @@
-img {
-    height: auto;
-    width: 300px;
-}
-
 .pancake img {
     height: auto;
-    width: 300px;
+    width: 400px;
+}
+
+.salad img {
+    height: auto;
+    width: 400px;
+}
+
+.crepes img {
+    height: auto;
+    width: 500px;
 }
