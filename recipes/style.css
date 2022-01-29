@@ -12,3 +12,15 @@
     height: auto;
     width: 500px;
 }
+
+.sub h3 {
+    background-color:rgb(131, 29, 131);
+    color:rgb(255, 209, 4);
+    text-align: center;
+}
+
+h1 {
+    background-color:rgb(131, 29, 131);
+    color:rgb(255, 209, 4);
+    text-align: center;
+}
