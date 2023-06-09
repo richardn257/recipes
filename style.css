@@ -1,8 +1,15 @@
-h1 {
-    /* background-color:rgb(131, 29, 131);
-    color:rgb(255, 209, 4); */
-    /* font-size: 60px; */
-    font-family: Verdana, sans-serif;
-    /* font-weight: 900; */
-    /* text-align: center; */
+.title {
+    background-color:#552583;
+    color:#FDB927;
+    font-size: 50px;
+    font-family: "Times New Roman", Verdana;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe {
+    list-style-type: none;
+    background-color:#00e1ff;
+    font-size: 25px;
+    text-align: center;
 }
