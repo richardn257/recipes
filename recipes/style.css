@@ -1,26 +1,20 @@
-.pancake img {
+img {
     height: auto;
     width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.salad img {
-    height: auto;
-    width: 400px;
-}
-
-.crepes img {
-    height: auto;
-    width: 500px;
-}
-
-/* .sub h3 {
+.background,
+.subtitle h3 {
     background-color:rgb(131, 29, 131);
     color:rgb(255, 209, 4);
     text-align: center;
 }
 
-h1 {
+.title {
     background-color:rgb(131, 29, 131);
     color:rgb(255, 209, 4);
     text-align: center;
-} */
+}
