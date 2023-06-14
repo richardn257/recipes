@@ -1,3 +1,8 @@
+/* body {
+    margin: 0;
+    background-color: #FDB927
+} */
+
 .container {
     /* box-sizing: border-box; */
     /* width: 850px; */
@@ -25,6 +30,7 @@
 
 a {
     color:#FDB927;
+    text-decoration: none;
 }
 
 .recipe {
