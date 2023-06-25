@@ -1,7 +1,12 @@
+body {
+    margin: 0;
+}
+
 .container {
-    border: 1px solid #FDB927;
-    padding: 10px;
-    margin: 0 100px;
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FDB927;
 }
 
 img {
@@ -10,6 +15,17 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+p {
+    padding: 0 20px;
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    padding: 0;
 }
 
 .background,
@@ -22,5 +38,19 @@ img {
 .title {
     background-color:rgb(131, 29, 131);
     color:rgb(255, 209, 4);
+    text-align: center;
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+
+.homepage {
     text-align: center;
 }
